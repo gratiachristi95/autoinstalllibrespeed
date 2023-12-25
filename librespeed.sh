@@ -1,1 +1,1 @@
-git clone -b v1.0.0 https://github.com/librespeed/speedtest-cli && cd speedtest-cli && ./build.sh && cd out && mv ./librespeed-cli-linux-amd64 ./speedtest && mv ./speedtest /bin/ && cd .. && cd .. && rm -rf speedtest-cli
+git clone -b v1.0.0 https://github.com/librespeed/speedtest-cli && cd speedtest-cli && ./build.sh && cd out && mv ./librespeed-cli-linux-amd64 ./speedtest && mv ./speedtest /bin/ && cd .. && cd .. && cd .. && rm -rf autoinstalllibrespeed
